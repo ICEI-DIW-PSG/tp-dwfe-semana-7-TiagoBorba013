@@ -4,13 +4,12 @@ Nessa atividade, vamos dar os primeiros passos com JavaScript, praticando com a 
 
 ## Informações Gerais
 
-- Nome: Tiago Sousa de Borba
-- Matricula: 910976
+- Nome: Tiago Sousa de Borba;
+- Matricula: 910976;
 
 ## Print do console do navegador
 
-![alt text](<img/Captura de tela 2026-05-04 151136.png>)
-
+![alt text](<img/Captura de tela 2026-05-04 153713.png>)
 
 
 (*) Utilize as ferramentas do desenvolvedor do seu navegador para colocar no modo reponsivo, escolha um celular qualquer e recarregue a página antes de tirar o print. 

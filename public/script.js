@@ -56,9 +56,9 @@ Mensagem: ${msg}`;
 alert(resultado);
 
 console.log("Nome:", nome);
-console.log("Renda:", renda.toFixed(2));
-console.log("Despesas:", totalDespesas.toFixed(2));
+console.log("Renda:", renda_mensal.toFixed(2));
+console.log("Despesas:", soma.toFixed(2));
 console.log("Sobra:", sobra.toFixed(2));
-console.log("Classificação:", mensagem);
+console.log("Classificação:", msg);
 
 
